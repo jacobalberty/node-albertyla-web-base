@@ -1,0 +1,19 @@
+{
+  "name": "albertyla-web-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobalberty/node-albertyla-web-base.git"
+  },
+  "author": "Jacob Alberty",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jacobalberty/node-albertyla-web-base/issues"
+  },
+  "homepage": "https://github.com/jacobalberty/node-albertyla-web-base#readme"
+}
